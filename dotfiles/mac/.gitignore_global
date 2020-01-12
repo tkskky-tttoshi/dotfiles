@@ -1,0 +1,8 @@
+.DS_Store
+.ctags
+.idea/*
+*.swp
+.tags_lock
+tags
+vendor/bundler/
+pg_*.log

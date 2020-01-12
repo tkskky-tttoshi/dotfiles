@@ -1,0 +1,10 @@
+[user]
+  email = hyoga0216@gmail.com
+  name = g-hyoga
+[core]
+  excludesfile = ~/.gitignore_global
+  editor = nvim -c \"set fenc=utf-8\"
+[web]
+  browser = open
+[ghq]
+  root = ~/Dropbox/dev/src/
